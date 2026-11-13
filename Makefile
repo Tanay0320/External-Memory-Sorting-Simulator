@@ -1,6 +1,6 @@
 # ─────────────────────────────────────────────────────────────────────────────
 # Makefile — External Sorting Project
-# CS315 | IIT Kanpur | Author: Prashant Shekhar
+# ESO207 | IIT Kanpur | Author:Tanay Pathode
 # ─────────────────────────────────────────────────────────────────────────────
 
 CXX      := g++
