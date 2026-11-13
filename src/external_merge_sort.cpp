@@ -1,10 +1,10 @@
 /*
  * External Merge Sort Simulation
  * ================================
- * CS315 — Principles of Database Systems
+ * ESO207 — Principles of Database Systems
  * IIT Kanpur | Assignment: External Sorting
  *
- * Author  : Prashant Shekhar
+ * Author  : Tanay Pathode
  * Language: C++17
  *
  * ── Overview ──────────────────────────────────────────────────────────────────
