@@ -1,5 +1,5 @@
-# External Sorting — CS315 IIT Kanpur
-**Author:** Prashant Shekhar
+# External Sorting — ESO207 IIT Kanpur
+**Author:** Tanay Pathode
 
 ---
 
@@ -12,7 +12,7 @@ This project implements and compares two disk-aware external sorting algorithms:
 | **External Merge Sort** | `src/external_merge_sort.cpp` | `./external_mergesort` |
 | **External Quick Sort** | `src/external_quick_sort.cpp` | `./external_quicksort` |
 
-Both programs simulate disk I/O, tracking **seeks** and **transfers** per pass, matching the assignment requirements from CS315.
+Both programs simulate disk I/O, tracking **seeks** and **transfers** per pass, matching the assignment requirements from ESO207.
 
 ---
 
